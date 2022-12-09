@@ -27,7 +27,7 @@ git clone https://github.com/Euniceatieno/HackCX.git
 Set up your virtual environment
 ----------------------
 ``` shell
-gpython3 -m venv env
+python3 -m venv env
 ```
 Activate your virtual environment
 ----------------------
