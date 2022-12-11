@@ -48,6 +48,7 @@ DATABASE_USER=yourdbuser
 DATABASE_PASSWORD=yourbdpassword
 DATABASE_HOST=localhost
 DATABASE_PORT=5432
+COHERE_API_KEY=yourcohereapikey
 ```
 Export your environment variables
 --------------------------------------------

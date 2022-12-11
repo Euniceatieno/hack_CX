@@ -22,6 +22,8 @@ DATABASE_PASSWORD = config("DATABASE_PASSWORD", "")
 DATABASE_HOST = config("DATABASE_HOST", "")
 DATABASE_PORT = int(config("DATABASE_PORT", 5432))
 
+COHERE_API_KEY = config("COHERE_API_KEY", "")
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
